@@ -7,5 +7,6 @@ public class helloGit {
         System.out.println("the best");
         System.out.println("您好");
         System.out.println("創建分支");
+        System.out.println("主幹版本2");
     }
 }
