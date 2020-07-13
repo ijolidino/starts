@@ -9,5 +9,6 @@ public class helloGit {
         System.out.println("創建分支");
         System.out.println("主幹版本");
         System.out.println("主幹版本2");
+        System.out.println("這是一個更新本地庫的操作");
     }
 }
